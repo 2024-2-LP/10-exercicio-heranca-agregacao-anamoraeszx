@@ -23,6 +23,7 @@ public class Consultoria {
     }
 
     public String getNome() {
+        
         return nome;
     }
 
